@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ServiceRec.Data.deps.json
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ServiceRec.Data.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ref\ServiceRec.Data.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ServiceRec.Data.pdb
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ref\ServiceRec.Data.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.pdb

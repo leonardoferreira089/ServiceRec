@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ServiceRec.Business/1.0.0": {
+        "runtime": {
+          "ServiceRec.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceRec.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\bin\Debug\net5.0\ServiceRec.Business.deps.json
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\bin\Debug\net5.0\ServiceRec.Business.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\bin\Debug\net5.0\ref\ServiceRec.Business.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\bin\Debug\net5.0\ServiceRec.Business.pdb
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ref\ServiceRec.Business.dll
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Business\obj\Debug\net5.0\ServiceRec.Business.pdb
