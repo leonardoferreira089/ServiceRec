@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ServiceRec.Business.Interfaces;
+using ServiceRec.Business.Services;
 using ServiceRec.Data.Context;
 using System;
 using System.Collections.Generic;
@@ -26,6 +28,9 @@ namespace ServiceRec
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<RecDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ServiceRecCs")));
+
+            services.AddScoped<IServiceBusinessService, ServiceBusinessService>();
+            services.AddScoped<IClientBusinessService, ClientBusinessService>();
 
             services.AddControllersWithViews();
         }

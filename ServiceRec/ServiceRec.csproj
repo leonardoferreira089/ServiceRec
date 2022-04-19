@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ServiceRec.Business\ServiceRec.Business.csproj" />
     <ProjectReference Include="..\ServiceRec.Data\ServiceRec.Data.csproj" />
   </ItemGroup>
 

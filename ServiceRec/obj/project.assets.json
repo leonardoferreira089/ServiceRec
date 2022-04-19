@@ -1508,6 +1508,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "ServiceRec.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ServiceRec.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceRec.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceRec.Business.dll": {}
+        }
+      },
       "ServiceRec.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -5767,6 +5780,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "ServiceRec.Business/1.0.0": {
+      "type": "project",
+      "path": "../ServiceRec.Business/ServiceRec.Business.csproj",
+      "msbuildProject": "../ServiceRec.Business/ServiceRec.Business.csproj"
+    },
     "ServiceRec.Data/1.0.0": {
       "type": "project",
       "path": "../ServiceRec.Data/ServiceRec.Data.csproj",
@@ -5777,6 +5795,7 @@
     "net5.0": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
+      "ServiceRec.Business >= 1.0.0",
       "ServiceRec.Data >= 1.0.0"
     ]
   },
@@ -5814,6 +5833,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec.Business\\ServiceRec.Business.csproj": {
+              "projectPath": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec.Business\\ServiceRec.Business.csproj"
+            },
             "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec.Data\\ServiceRec.Data.csproj": {
               "projectPath": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec.Data\\ServiceRec.Data.csproj"
             }
