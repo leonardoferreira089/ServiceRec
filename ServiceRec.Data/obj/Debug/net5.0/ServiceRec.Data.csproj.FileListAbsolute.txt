@@ -10,3 +10,6 @@ C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\Servi
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.dll
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ref\ServiceRec.Data.dll
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.pdb
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ServiceRec.Data.runtimeconfig.json
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\bin\Debug\net5.0\ServiceRec.Data.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec.Data\obj\Debug\net5.0\ServiceRec.Data.genruntimeconfig.cache
