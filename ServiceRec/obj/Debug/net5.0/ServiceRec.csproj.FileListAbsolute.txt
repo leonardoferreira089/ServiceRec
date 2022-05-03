@@ -74,3 +74,4 @@ C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\bin\Debug\net5.0\ServiceRec
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\bin\Debug\net5.0\ServiceRec.Data.pdb
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\bin\Debug\net5.0\ServiceRec.Business.dll
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\bin\Debug\net5.0\ServiceRec.Business.pdb
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
