@@ -5807,9 +5807,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec\\ServiceRec.csproj",
-      "projectName": "ServiceRec",
-      "projectPath": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec\\ServiceRec.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec\\ServiceRec.API.csproj",
+      "projectName": "ServiceRec.API",
+      "projectPath": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec\\ServiceRec.API.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuário\\source\\repos\\ServiceRec\\ServiceRec\\obj\\",
       "projectStyle": "PackageReference",
@@ -5881,7 +5881,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
