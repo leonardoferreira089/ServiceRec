@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using ServiceRec.Business.Interfaces;
 using ServiceRec.Business.Services;
 using ServiceRec.Data.Context;
+using ServiceRec.Data.SeedService;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,6 +32,7 @@ namespace ServiceRec
 
             services.AddScoped<IServiceBusinessService, ServiceBusinessService>();
             services.AddScoped<IClientBusinessService, ClientBusinessService>();
+            
 
             services.AddControllersWithViews();
         }
@@ -40,7 +42,7 @@ namespace ServiceRec
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage();                
             }
             else
             {

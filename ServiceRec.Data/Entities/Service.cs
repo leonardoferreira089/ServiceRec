@@ -11,6 +11,19 @@ namespace ServiceRec.Data.Entities
 {
     public class Service
     {
+        public Service(string serviceName)
+        {
+            ServiceName = serviceName;
+        }
+
+        public Service(int id, string serviceName, decimal price, ServiceType type)
+        {
+            Id = id;
+            ServiceName = serviceName;
+            Price = price;
+            Type = 0;
+        }
+
         [Key]
         public int Id { get; set; }
         [DisplayName("Service Name")]

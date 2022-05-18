@@ -11,6 +11,20 @@ namespace ServiceRec.Data.Entities
 {
     public class Client
     {
+        public Client()
+        {
+
+        }
+        public Client(int id, string clientName, string email, DateTime createdAt, Status status, Service service)
+        {
+            Id = id;
+            ClientName = clientName;
+            Email = email;
+            CreatedAt = createdAt;
+            Status = status;
+            Service = service;
+        }
+
         [Key]
         public int Id { get; set; }
         [DisplayName("Client Name")]
