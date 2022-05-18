@@ -76,3 +76,5 @@ C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\ServiceRec
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\ref\ServiceRec.API.dll
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\ServiceRec.API.pdb
 C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\ServiceRec.API.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\Usuário\source\repos\ServiceRec\ServiceRec\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
