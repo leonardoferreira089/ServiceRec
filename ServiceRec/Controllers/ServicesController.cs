@@ -2,26 +2,22 @@
 using Microsoft.EntityFrameworkCore;
 using ServiceRec.Business.Interfaces;
 using ServiceRec.Data.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace ServiceRec.Controllers
 {
+
     public class ServicesController : Controller
-    {
+    {        
         private readonly IServiceBusinessService _serviceBusinessService;
         public ServicesController(IServiceBusinessService serviceBusinessService)
         {
             _serviceBusinessService = serviceBusinessService;
         }
-
+        [Route("services-list")]
         public async Task<IActionResult> Index()
         {
-            var services = await _serviceBusinessService.GetAllServiceAsync();
-
-            return View(services);
+            return View(await _serviceBusinessService.GetAllServiceAsync());
         }
 
         [HttpGet("{id}")]

@@ -20,7 +20,7 @@ namespace ServiceRec.Controllers
             _clienteBusinessService = clientBusinessService;
             _serviceBusinessService = serviceBusinessService;
         }
-
+        [Route("clients")]
         public async Task<IActionResult> Index()
         {
             return View(await _clienteBusinessService.GetAllClientsAsync());
@@ -52,6 +52,7 @@ namespace ServiceRec.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,ClientName,Email,CreatedAt,Status,ServiceId")] Client client)
         {
+            client.CreatedAt = DateTime.Now;
             if (ModelState.IsValid)
             {
                 await _clienteBusinessService.CreateClientAsync(client);
